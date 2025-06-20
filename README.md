@@ -53,11 +53,10 @@ Built with Power BI and based on mock business requirements.
 
 | File | Description |
 |------|-------------|
-| `AtliQ HR Analytics.pbix` | Power BI dashboard file |
-| `dashboard_screenshot.png` | Project dashboard image |
-| `Data Analyst Project (HR Analytics).pdf` | Project scope and background |
-| `dashboard_screenshot.png` | Project dashboard image |
-| `Data Analyst Project (HR Analytics).pdf` | Project scope and background |
+| `Business Requests.pdf` | Expectations and Metrics to Explore |
+| `GoodCabs Project.pbix` | Power BI Report File |
+| `GoodCabs Project.pbix` | Project Report  |
+| `Project_Dashboard.pdf` | Project dashboard image |
 
 ## 🙋 About Me
 
