@@ -55,8 +55,8 @@ Built with Power BI and based on mock business requirements.
 |------|-------------|
 | `Business Requests.pdf` | Expectations and Metrics to Explore |
 | `GoodCabs Project.pbix` | Power BI Report File |
-| `GoodCabs Project.pbix` | Project Report  |
-| `Project_Dashboard.pdf` | Project dashboard image |
+| `GoodCabs Project.pdf` | Project Report  |
+| `Project_Dashboard.jpg` | Project dashboard image |
 
 ## 🙋 About Me
 
