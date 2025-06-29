@@ -57,6 +57,8 @@ Built with Power BI and based on mock business requirements.
 | `GoodCabs Project.pbix` | Power BI Report File |
 | `GoodCabs Project.pdf` | Project Report  |
 | `Project_Dashboard.png` | Project dashboard image |
+| `GoodCabs Performance Report Presentation.pdf` | Project Story and Insights |
+
 
 ## 🙋 About Me
 
